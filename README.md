@@ -1,3 +1,3 @@
 # pypgp
 Python Wrapper for PGP by Matthew Schinckel, copied from https://sourceforge.net/projects/pypgp/  
-Will try not to make too many changes etc.
+DO NOT USE as this uses (currently)outdated libraries and methods that are not recommended anymore. I merely used this for some tests
